@@ -1,2 +1,2 @@
-# the-cloud
-Arduino desk-art project for a color-changing cloud
+# The Cloud!
+A big poof of stuffing with four addressable RGB LEDs and a PIR motion sensor.
